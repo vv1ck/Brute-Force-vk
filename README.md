@@ -9,12 +9,12 @@ about the tool :
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
-sudo git clone https://github.com/vv1ck/FBI-Look
+sudo git clone https://github.com/vv1ck/Brute-Force-vk
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-cd FBI-Look
+cd Brute-Force-vk
 ```
 <!--END_SECTION:waka-->
 - install libraries :
